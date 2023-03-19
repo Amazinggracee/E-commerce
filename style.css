@@ -143,11 +143,12 @@ body {
 }
 
 #hero button {
-  background-image: url("./images/button2.jpg");
-  color: var(--hover-color);
+  background-image: url("./images/button3.jpg");
+  color: var(--font-color);
   border: 0;
   padding: 14px 80px 14px 65px;
   background-repeat: no-repeat;
+  background-size: 15rem 4rem;
   font-weight: 700;
   font-size: 15px;
 }
